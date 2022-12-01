@@ -1,4 +1,4 @@
-# **GAME BOX**
+# ****GAME BOX****
 
 *This is an compilation of the strategy board games namely Tic-Tac-Toe, Othello and Connect 4.*
 
@@ -7,10 +7,8 @@
 
 ### *Option 1*
 **Play** Opens the Select Game Menu
-
 ### *Option 2*
 **About** Shows all about the project
-
 ### *option 3*
 **Exit** Exit the Game-Box *close the program*
 
@@ -22,13 +20,10 @@
 
 ### **play with computer** 
 Play aganist Computer
-
 ### **play with friend** 
 Play pvp with your friend
-
 ### **Help** 
 Shows Board layout and rules of the game
-
 ### **Return** 
 Return to Select Game Menu
 
@@ -37,10 +32,8 @@ Return to Select Game Menu
 
 ### **Play**
 Play Othello PVP with your friend
-
 ### **Help**
 Shows rules and other information
-
 ### **Return**
 Return to Select Game Menu
 
@@ -49,10 +42,8 @@ Return to Select Game Menu
 
 ### **Play**
 Play Connect 4 player vs player with your friend
-
 ### **Help**
 Shows rules, Objective and other information
-
 ### **Return**
 Return to Select Game Menu
 
