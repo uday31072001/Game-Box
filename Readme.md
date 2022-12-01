@@ -32,5 +32,31 @@ Shows Board layout and rules of the game
 ### **Return** 
 Return to Select Game Menu
 
+# 2) Othello
+![image](https://user-images.githubusercontent.com/70059483/205035169-4ce0e5a3-6564-49aa-a0e2-1b93f652fc12.png)
+
+### **Play**
+Play Othello PVP with your friend
+
+### **Help**
+Shows rules and other information
+
+### **Return**
+Return to Select Game Menu
+
+# 3) Connect 4
+![image](https://user-images.githubusercontent.com/70059483/205035676-4ccd3a1c-6561-4fe2-8994-2a13b8c81058.png)
+
+### **Play**
+Play Connect 4 player vs player with your friend
+
+### **Help**
+Shows rules, Objective and other information
+
+### **Return**
+Return to Select Game Menu
+
+# 3) Return
+Return to main menu
 
 
