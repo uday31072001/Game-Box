@@ -50,7 +50,20 @@ Reversi is a strategy board game for two players, played on an 8×8 uncheckered 
 
 ### **Play**
 Play Othello PVP with your friend
->
+>![image](https://user-images.githubusercontent.com/70059483/205040538-7331d564-bda0-4615-ba2f-5593e48adf66.png)
+![image](https://user-images.githubusercontent.com/70059483/205040620-50d12d5f-81c4-4547-9ba4-b4d6ac5836a8.png)
+![image](https://user-images.githubusercontent.com/70059483/205040661-7dd0059b-00f6-44d2-a45f-a7f04d45d9a4.png)
+![image](https://user-images.githubusercontent.com/70059483/205040706-798c0468-5394-46b4-a6d2-fc33050c7360.png)
+![image](https://user-images.githubusercontent.com/70059483/205040740-e0ebf6f4-751c-4630-851c-a368bc586129.png)
+![image](https://user-images.githubusercontent.com/70059483/205040816-0832db7e-20f1-40ce-90c5-a4a8ac586b51.png)
+![image](https://user-images.githubusercontent.com/70059483/205044622-d1907106-1ec6-498d-9700-71f3dec566d6.png)
+![image](https://user-images.githubusercontent.com/70059483/205044649-16e4e662-9b59-439b-b518-b4d7b48e8337.png)
+![image](https://user-images.githubusercontent.com/70059483/205044737-e12af3eb-57eb-4b04-a568-b4351f6ad66b.png)
+![image](https://user-images.githubusercontent.com/70059483/205044773-7cf81c3c-be8c-4a9f-8861-5ff59b6c0a2a.png)
+![image](https://user-images.githubusercontent.com/70059483/205044865-e3fef4ed-44cb-4769-8314-4c49c04dce8c.png)
+![image](https://user-images.githubusercontent.com/70059483/205044905-64a75b8f-12c0-4dd2-b462-9b37f5109cca.png)
+![image](https://user-images.githubusercontent.com/70059483/205044970-fa2c52fa-6dd2-42c4-84c2-3aa2a6b4d366.png)
+![image](https://user-images.githubusercontent.com/70059483/205045026-c9680ef6-02a9-450f-9757-8693b349a109.png)
 
 ### **Help**
 Shows rules and other information
