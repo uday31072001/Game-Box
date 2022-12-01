@@ -78,6 +78,29 @@ source - wikipedia
 
 ### **Play**
 Play Connect 4 player vs player with your friend
+>![image](https://user-images.githubusercontent.com/70059483/205045266-5e077dbd-3641-42d9-8ab9-0e6d516d82d4.png)
+![image](https://user-images.githubusercontent.com/70059483/205045297-3c0970fb-1d02-47d7-b82b-d757ecea7b32.png)
+![image](https://user-images.githubusercontent.com/70059483/205045334-4fbc0f57-539c-40fd-820a-604cef5f473e.png)
+![image](https://user-images.githubusercontent.com/70059483/205045360-95c90e5f-90b4-44c3-8fc3-2c38fbde0724.png)
+![image](https://user-images.githubusercontent.com/70059483/205045386-0f7d53d4-9bc8-4c0a-bd77-72221af672d2.png)
+![image](https://user-images.githubusercontent.com/70059483/205045429-7c9e483a-0068-4e4c-a797-24d414996222.png)
+![image](https://user-images.githubusercontent.com/70059483/205045463-3ec07b40-03d8-49a6-b0a4-e64477a2c848.png)
+![image](https://user-images.githubusercontent.com/70059483/205045520-514cf8e8-f850-42ee-bf16-171d6969551b.png)
+![image](https://user-images.githubusercontent.com/70059483/205045582-9d5e1263-5193-4215-8aa4-640b76bab4bf.png)
+![image](https://user-images.githubusercontent.com/70059483/205045663-ba27710b-6e07-4666-b579-756d5feda505.png)
+![image](https://user-images.githubusercontent.com/70059483/205045700-6bfddaf4-43e0-4d5d-959b-b046a9faefd5.png)
+![image](https://user-images.githubusercontent.com/70059483/205045783-ffcc075e-cce5-445b-bee5-f64f65f83347.png)
+![image](https://user-images.githubusercontent.com/70059483/205045816-010ad21d-d68c-4c50-a4ab-205579eadeb0.png)
+![image](https://user-images.githubusercontent.com/70059483/205045960-5d6fe868-b5ae-49ea-95d4-484996d925d6.png)
+![image](https://user-images.githubusercontent.com/70059483/205045994-63fa925c-9002-4ca5-9f46-a000a4458402.png)
+![image](https://user-images.githubusercontent.com/70059483/205046080-0a09aa72-378f-4b4c-8835-91f1ca68acf3.png)
+![image](https://user-images.githubusercontent.com/70059483/205046103-a0e626f6-0c6e-4e9c-bd13-8426e0504e6f.png)
+![image](https://user-images.githubusercontent.com/70059483/205046145-cac2ff96-cd13-4237-b590-db58500db720.png)
+![image](https://user-images.githubusercontent.com/70059483/205046184-3a7f8524-0f80-4a8a-b36b-bb53a84a1a6b.png)
+![image](https://user-images.githubusercontent.com/70059483/205046238-95ab879f-353b-4930-9a5e-0741281580a6.png)
+![image](https://user-images.githubusercontent.com/70059483/205046267-0791fd8a-277f-4930-982e-e36440d60f89.png)
+
+
 ### **Help**
 Shows rules, Objective and other information
 ### **Return**
