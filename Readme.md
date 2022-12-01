@@ -21,14 +21,14 @@ Tic-tac-toe (American English), noughts and crosses (Commonwealth English), or X
 
 ### **play with computer** 
 Play aganist Computer
-![image](https://user-images.githubusercontent.com/70059483/205038804-85f2d88d-1ea8-4fde-8a7c-928b6f77886c.png)
+>![image](https://user-images.githubusercontent.com/70059483/205038804-85f2d88d-1ea8-4fde-8a7c-928b6f77886c.png)
 ![image](https://user-images.githubusercontent.com/70059483/205038858-8adac790-385f-4145-8eab-338b85063ee1.png)
 ![image](https://user-images.githubusercontent.com/70059483/205038944-ac43a07a-8d51-4aee-9e25-c4e023b220d5.png)
 ![image](https://user-images.githubusercontent.com/70059483/205039005-fe83a534-11c6-428b-b970-521a615707bd.png)
 
 ### **play with friend** 
 Play pvp with your friend
-![image](https://user-images.githubusercontent.com/70059483/205039252-e21eb7e4-86e8-42de-ab46-9ffa99f7d7ea.png)
+>![image](https://user-images.githubusercontent.com/70059483/205039252-e21eb7e4-86e8-42de-ab46-9ffa99f7d7ea.png)
 ![image](https://user-images.githubusercontent.com/70059483/205039443-7ad31069-d0b7-4efd-81ca-37205a235a22.png)
 ![image](https://user-images.githubusercontent.com/70059483/205039561-0d399182-38e9-4d39-9243-5bd893c85617.png)
 ![image](https://user-images.githubusercontent.com/70059483/205039659-860e1373-3ce9-4b70-9919-3f0d871bd6f1.png)
@@ -51,6 +51,8 @@ Reversi is a strategy board game for two players, played on an 8×8 uncheckered 
 
 ### **Play**
 Play Othello PVP with your friend
+>
+
 ### **Help**
 Shows rules and other information
 ### **Return**
